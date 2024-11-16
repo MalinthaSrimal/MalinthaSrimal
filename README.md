@@ -1,3 +1,5 @@
+## Malintha Srimal
+
 <div align="center">
 
 # 👋 Welcome to My Digital Universe! 
