@@ -116,7 +116,8 @@ I'm a passionate software engineering undergraduate with a love for turning line
 </div>
 
 ---
+<div align="center">
 [![](https://visitcount.itsvg.in/api?id=MalinthaSrimal&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+</div>
