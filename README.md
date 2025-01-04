@@ -100,16 +100,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MalinthaSrimal&theme=darkhub&no-frame=true&margin-w=15&margin-h=15"/>
 </div>
 
+## 📫 Let's Connect
 <div align="center">
-
-### 📫 Let's Connect
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/malintha.srimal.944)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malinthasrimal)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/malintha_srimal)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malinthas98@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://malinthasrimal.github.io/MyPortfolio/)
-
 
 </div>
 
