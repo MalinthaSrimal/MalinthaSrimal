@@ -10,17 +10,36 @@
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Undergraduate+Software+Engineer;Full+Stack+Developer;UI%2FUX+Designer;)
+
+<a href="https://github.com/MalinthaSrimal"><img src="https://img.shields.io/github/followers/MalinthaSrimal?label=Followers&style=social" alt="GitHub Badge"></a>
+<img src="https://komarev.com/ghpvc/?username=MalinthaSrimal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
 </div>
 
 ## 💡 About Me
 
 >I'm a passionate software engineering undergraduate with a love for turning lines of code into innovative solutions. Welcome to my GitHub playground, where I explore the world of software, one commit at a time. Feel free to explore my projects and join me on this exciting coding journey!
 
+<table>
+  <tr>
+    <td>
+      
 - 🔭 Currently working on exciting full-stack projects
 - 🌱 Learning cloud architecture and DevOps practices
 - 🤝 Open to collaborate on innovative open-source projects
 - 💬 Software architecture and best practices
+      
+   </td>
+   <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MalinthaSrimal&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+   </td>
+  </tr>
+</table>
 
+<div align="center">
+    <img src="https://github-stats-alpha.vercel.app/api?username=MalinthaSrimal&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</div>
+
+---
 
 ## 🛠️ Technologies & Skills
 
@@ -97,7 +116,7 @@
 
 ## 🏆 Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MalinthaSrimal&theme=darkhub&no-frame=true&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MalinthaSrimal&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7&rank=SSS,SS,S,AAA,AA,A,B,C"/>
 </div>
 
 ## 📫 Let's Connect
@@ -109,11 +128,12 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malinthas98@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://malinthasrimal.github.io/MyPortfolio/)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
 </div>
 
 ---
 
 <div align="left">
 
-![Profile Views](https://komarev.com/ghpvc/?username=MalinthaSrimal&color=blue&style=flat)
+
 </div>
