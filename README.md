@@ -116,7 +116,18 @@
 
 ## 🏆 Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MalinthaSrimal&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7&rank=SSS,SS,S,AAA,AA,A,B,C"/>
+  <div align="center">
+
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=MalinthaSrimal&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=6" />
+
+  <!-- GitHub Stats Badges -->
+  <br><br>
+  <img src="https://img.shields.io/badge/Achievement-Galaxy%20Brain-8A2BE2?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Achievement-Pull%20Shark-00CED1?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Achievement-Pair%20Extraordinaire-32CD32?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Achievement-Starstruck-FFD700?logo=github&logoColor=black" />
+
 </div>
 
 ## 📫 Let's Connect
