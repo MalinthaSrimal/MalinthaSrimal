@@ -1,15 +1,15 @@
 
->## Malintha Srimal
+>## 👋 Hey there! I'm *Malintha Srimal*
 
 <div align="center">
 
-# 👋 Welcome to My Digital Universe! 
+# 🚀 Welcome to My Digital Universe   
 
-### Undergraduate Software Engineer
+### 🎓 **Graduate Software Engineer** | 💻 **Full Stack Developer** | 📱 **Mobile Developer (React Native)** | 🎨 **UI/UX Designer**
 </div>
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Undergraduate+Software+Engineer;Full+Stack+Developer;UI%2FUX+Designer;)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Graduate+Software+Engineer;Full+Stack+Developer;UI%2FUX+Designer;)
 
 <a href="https://github.com/MalinthaSrimal"><img src="https://img.shields.io/github/followers/MalinthaSrimal?label=Followers&style=social" alt="GitHub Badge"></a>
 <img src="https://komarev.com/ghpvc/?username=MalinthaSrimal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
@@ -62,11 +62,13 @@
 <summary>🌐 Frontend Expertise</summary>
 <br>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white)
 
 </details>
 
