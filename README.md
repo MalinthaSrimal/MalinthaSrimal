@@ -5,7 +5,7 @@
 
 # 🚀 Welcome to My Digital Universe   
 
-### 🎓 **Graduate Software Engineer** | 💻 **Full Stack Developer** | 📱 **Mobile Developer (React Native)** | 🎨 **UI/UX Designer**
+### 🎓 **Graduate Software Engineer** | 💻 **Full Stack Developer** | 📱 **Mobile Developer** | 🎨 **UI/UX Designer**
 </div>
 <div align="center">
   
@@ -17,7 +17,7 @@
 
 ## 💡 About Me
 
->I'm a passionate software engineering undergraduate with a love for turning lines of code into innovative solutions. Welcome to my GitHub playground, where I explore the world of software, one commit at a time. Feel free to explore my projects and join me on this exciting coding journey!
+>I'm a passionate software engineering graduate with a love for turning lines of code into innovative solutions. Welcome to my GitHub playground, where I explore the world of software, one commit at a time. Feel free to explore my projects and join me on this exciting coding journey!
 
 <table>
   <tr>
