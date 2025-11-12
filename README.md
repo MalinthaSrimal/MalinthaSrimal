@@ -5,11 +5,11 @@
 
 # 🚀 Welcome to My Digital Universe   
 
-### 🎓 **Graduate Software Engineer** | 💻 **Full Stack Developer** | 📱 **Mobile Developer** | 🎨 **UI/UX Designer**
+###  **Graduate Software Engineer** | **Full Stack Developer**
 </div>
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Graduate+Software+Engineer;Full+Stack+Developer;UI%2FUX+Designer;)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Full+Stack+Developer+%F0%9F%9A%80;Mobile+App+Developer+%F0%9F%93%B1;UI%2FUX+Designer+%F0%9F%8E%A8;Cloud+Enthusiast+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
 
 <a href="https://github.com/MalinthaSrimal"><img src="https://img.shields.io/github/followers/MalinthaSrimal?label=Followers&style=social" alt="GitHub Badge"></a>
 <img src="https://komarev.com/ghpvc/?username=MalinthaSrimal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
@@ -17,16 +17,37 @@
 
 ## 💡 About Me
 
->I'm a passionate software engineering graduate with a love for turning lines of code into innovative solutions. Welcome to my GitHub playground, where I explore the world of software, one commit at a time. Feel free to explore my projects and join me on this exciting coding journey!
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+```typescript
+const malintha = {
+    location: "Sri Lanka 🇱🇰",
+    role: "Graduate Software Engineer",
+    education: "BSc in Software Engineering",
+    currentFocus: ["Full Stack Development", "Cloud Architecture", "DevOps"],
+    passions: ["Clean Code", "UI/UX Design", "Problem Solving"],
+    communities: {
+        openSource: "Active Contributor",
+        mentoring: "Helping Junior Developers"
+    },
+    lifePhilosophy: "Code with purpose, design with empathy"
+};
+```
+
+<br clear="right"/>
+
+### 🎯 Current Focus
 
 <table>
   <tr>
     <td>
       
-- 🔭 Currently working on exciting full-stack projects
-- 🌱 Learning cloud architecture and DevOps practices
-- 🤝 Open to collaborate on innovative open-source projects
-- 💬 Software architecture and best practices
+- 🔭 Working On: Enterprise-scale full-stack applications
+- 🌱 Learning: Cloud architecture patterns & DevOps best practices
+- 🤝 Open To: Innovative open-source collaborations
+- 💡 Exploring: AI/ML integration in web applications
+- 🎨 Designing: User-centric interfaces that delight
+
       
    </td>
    <td>
