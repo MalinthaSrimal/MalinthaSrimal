@@ -137,43 +137,68 @@ const malintha = {
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MalinthaSrimal&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalinthaSrimal&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MalinthaSrimal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667EEA&icon_color=667EEA&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MalinthaSrimal&theme=tokyonight&hide_border=true&background=1a1b27&ring=667EEA&fire=667EEA&currStreakLabel=667EEA" alt="GitHub Streak"/>
 </div>
 
-## 🏆 Achievements
 <div align="center">
-  <div align="center">
-
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=MalinthaSrimal&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=6" />
-
-  <!-- GitHub Stats Badges -->
-  <br><br>
-  <img src="https://img.shields.io/badge/Achievement-Galaxy%20Brain-8A2BE2?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Achievement-Pull%20Shark-00CED1?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Achievement-Pair%20Extraordinaire-32CD32?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Achievement-Starstruck-FFD700?logo=github&logoColor=black" />
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalinthaSrimal&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667EEA&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=MalinthaSrimal&bg_color=1a1b27&color=667EEA&line=667EEA&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
-## 📫 Let's Connect
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MalinthaSrimal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🎯 Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MalinthaSrimal&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667EEA&text_color=c9d1d9&layout=compact" alt="Wakatime Stats"/>
+</div>
+
+---
+
+## 📫 Connect With Me
+
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/malintha.srimal.944)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malinthasrimal)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/malintha_srimal)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/malintha.srimal.944)
+[![Portfolio](https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=About.me&logoColor=white)](https://malinthasrimal.github.io/MyPortfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malinthas98@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://malinthasrimal.github.io/MyPortfolio/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
+### 📧 **malinthas98@gmail.com**
+
 </div>
 
+---
 
-<div align="left">
 
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/MalinthaSrimal/MalinthaSrimal/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ Show some love by starring my repositories! ⭐**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
