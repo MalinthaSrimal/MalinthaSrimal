@@ -1,4 +1,3 @@
-
 >## 👋 Hey there! I'm *Malintha Srimal*
 
 <div align="center">
