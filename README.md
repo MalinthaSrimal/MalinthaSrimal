@@ -137,7 +137,10 @@ const malintha = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MalinthaSrimal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667EEA&icon_color=667EEA&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" 
+src="https://github-readme-stats.vercel.app/api?username=MalinthaSrimal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667EEA&icon_color=667EEA&text_color=c9d1d9&count_private=true&cache_seconds=180" 
+alt="GitHub Stats"/>
+
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MalinthaSrimal&theme=tokyonight&hide_border=true&background=1a1b27&ring=667EEA&fire=667EEA&currStreakLabel=667EEA" alt="GitHub Streak"/>
 </div>
 
@@ -189,7 +192,9 @@ const malintha = {
 
 ![Snake animation](https://raw.githubusercontent.com/MalinthaSrimal/MalinthaSrimal/output/github-contribution-grid-snake-dark.svg)
 
+
 </div>
+
 
 ---
 
