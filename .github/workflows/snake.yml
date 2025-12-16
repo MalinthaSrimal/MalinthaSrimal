@@ -1,29 +1,28 @@
-name: Generate Contribution Snake
-
-permissions:
-  contents: write
+name: Generate Activity Graph
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *" # every 12 hours
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - name: Generate Activity Graph
+        uses: activity-graph/github-readme-activity-graph@v1
         with:
-          github_user_name: MalinthaSrimal
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          username: MalinthaSrimal
+          output: dist/activity-graph.svg
+          theme: react-dark
+          background: 1a1b27
+          color: 667EEA
+          line: ffffff
+          hide-border: true
 
-      - name: Push Snake to output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
