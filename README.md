@@ -190,6 +190,8 @@ alt="GitHub Stats"/>
 
 ### 🐍 Contribution Snake
 
+<div align="center">
+
 ![Snake animation](https://raw.githubusercontent.com/MalinthaSrimal/MalinthaSrimal/output/github-contribution-grid-snake-dark.svg)
 
 
