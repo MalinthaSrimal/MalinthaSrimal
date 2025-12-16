@@ -1,5 +1,8 @@
 name: Generate Activity Graph
 
+permissions:
+  contents: write
+  
 on:
   schedule:
     - cron: "0 */12 * * *" # every 12 hours
