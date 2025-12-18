@@ -188,7 +188,7 @@ alt="GitHub Stats"/>
 
 ---
 
-### 🐍 Contribution Snake
+
 
 <div align="center">
 
