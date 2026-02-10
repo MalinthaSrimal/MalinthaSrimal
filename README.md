@@ -22,7 +22,7 @@
 const malintha = {
     location: "Sri Lanka 🇱🇰",
     role: "Graduate Software Engineer",
-    education: "BSc in Software Engineering",
+    education: "BEng (Hons) in Software Engineering",
     currentFocus: ["Full Stack Development", "Cloud Architecture", "DevOps"],
     passions: ["Clean Code", "UI/UX Design", "Problem Solving"],
     communities: {
